@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Linenmyron and I'm working as Application Developer
+- 👋 Hi, I’m Linenmyron
 - 👀 I’m interested in games and coding
-- 🌱 I’m currently learning Python from sololearn and Cyber Security from TryHackMe
+- 🌱 I’m currently learning Python from sololearn
 - 💞️ I’m not looking to collaborate for now
 - 📫 How to reach me either send a message here 
 
